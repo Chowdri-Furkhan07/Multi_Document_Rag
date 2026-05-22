@@ -400,7 +400,7 @@ Show IT department security policies.
 
 # 👨‍💻 Author
 
-**Mallareddygari Gayathri**
+** Chowdri Furkhan**
 
 - Data Analyst
 - AI/ML Enthusiast
