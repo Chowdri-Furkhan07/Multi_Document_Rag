@@ -164,9 +164,9 @@ Company-RAG-System/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Chowdri-Furkhan07/Multi_Document_Rag.git
+git clone https://github.com/Chowdri-Furkhan07/Intelligent-Document-RAG.git
 
-cd Multi_Document_Rag.git
+cd Intelligent-Document-RAG
 ```
 
 ---
